@@ -107,23 +107,6 @@ MIDI_INPUT.on 'message', (deltaTime, msg) ->
 
 MIDI_INPUT.openPort(1);
 
-
-#lights = new Lights()
-#lights.rows[5].lights[3].yellow.on()
-
-# third parameter 127 or 0
-# 0,0: 157 124, 88, 52 (-36 each time)
-# 0,1: 157 125, 89, 53
-# 1,0: 157 120, 84
-# 1,1: 157 121, 85
-# 2,0: 157 116, 79
-# 3,0: 157 112, 76
-# 3,1: 157 113, 77
-# ---
-# 4,0: 157 108
-# 5,0: 157 104
-# 6,0: 157 100
-
 module.exports = lights
 
 # lights = require './lights.coffee'
