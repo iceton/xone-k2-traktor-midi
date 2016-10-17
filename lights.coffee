@@ -1,3 +1,5 @@
+# https://github.com/iceton/xone-k2-traktor-midi
+
 midi = require 'midi'
 
 LED_ADDRESS_PREFIX = 157

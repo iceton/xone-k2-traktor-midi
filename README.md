@@ -35,8 +35,8 @@ This listens to MIDI out from Traktor and stores the state of the LEDs individua
 
 ## What's next?
 
-[ ] Rules that define light behavior based on controller signals (not just Traktor signals)
-[ ] Look into sending on/off on `nextTick`, since turning all lights on/off at once is funky
+- [ ] Rules that define light behavior based on controller signals (not just Traktor signals)
+- [ ] Look into sending on/off on `nextTick`, since turning all lights on/off at once is funky
 
 ### Notes
 
