@@ -5,8 +5,7 @@ Store state for the Xone K2's LEDs to enable better lighting behavior
 ## How to use
 
 ```
-npm install -g coffee-script midi
-coffee lights.coffee
+yarn run lights
 ```
 
 ## Why?

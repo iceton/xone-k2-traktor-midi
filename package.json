@@ -1,0 +1,14 @@
+{
+  "name": "xone-k2-traktor-midi",
+  "version": "0.0.1",
+  "repository": "git@github.com:iceton/xone-k2-traktor-midi.git",
+  "author": "iceton <github@emailbad.com>",
+  "license": "MIT",
+  "dependencies": {
+    "coffeescript": "^2.5.1",
+    "midi": "^1.0.0"
+  },
+  "scripts": {
+    "lights": "coffee lights.coffee"
+  }
+}
